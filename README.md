@@ -7,7 +7,6 @@ Features
 Interactive 3D Models: Utilizes Three.js to render detailed 3D models of the iPhone 15 in different colors and sizes.
 Smooth Animations: Implemented with GSAP to create engaging transitions and effects.
 Dynamic User Interface: Reflects the iPhone 15’s interface with an intuitive and responsive layout.
-Real-Time Data: Fetches and displays real-time information through APIs.
 
 Technologies Used
 
