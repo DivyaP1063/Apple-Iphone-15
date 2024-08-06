@@ -11,8 +11,11 @@ Dynamic User Interface: Reflects the iPhone 15’s interface with an intuitive a
 Technologies Used
 
 ReactJS: For building the user interface and managing state.
+
 Tailwind CSS: For styling and responsive design.
+
 GSAP: For creating smooth animations and transitions.
+
 Three.js: For rendering interactive 3D models of the iPhone 15.
 
 Installation
