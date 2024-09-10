@@ -1,8 +1,8 @@
-iPhone 15 ReactJS App
+#iPhone 15 ReactJS App#
 
-This repository contains a ReactJS application that showcases the Apple iPhone 15, featuring interactive 3D models and smooth animations. The app highlights the latest iPhone model with various color and size options, providing an immersive user experience.
+- This repository contains a ReactJS application that showcases the Apple iPhone 15, featuring interactive 3D models and smooth animations. The app highlights the latest iPhone model with various color and size options, providing an immersive user experience.
 
-Features
+**Features**
 
 Interactive 3D Models: Utilizes Three.js to render detailed 3D models of the iPhone 15 in different colors and sizes.
 Smooth Animations: Implemented with GSAP to create engaging transitions and effects.
